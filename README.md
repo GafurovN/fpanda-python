@@ -14,7 +14,7 @@ Automated FP&A workflows – Python, SQL, Power BI.
 - [ ] Monte-Carlo cash-burn runway
 - [ ] Auto-export Excel + CFO memo
 - [ ] SQLite star-schema
-- [ ] Python ETL: Excel ➜ SQLite ➜ pandas
+- [ ] Python ETL: Excel → SQLite → pandas
 - [ ] Power BI dashboard
 - [ ] Record 3-min Loom walk-through
 - [ ] Apply to jobs / LinkedIn post
