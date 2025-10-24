@@ -5,8 +5,7 @@ Automated FP&A workflows – Python, SQL, Power BI.
 ## Road-map
 
 - [x] Repo init – Python 3.13.2
-- [ ] Variance function + unit test
-- [ ] Load 2024 trial-balance CSV → pandas
+- [x] Variance function + unit test- [ ] Load 2024 trial-balance CSV → pandas
 - [ ] Clean GL accounts, map to FP&A lines
 - [ ] Monthly budget vs actual DataFrame
 - [ ] QoQ waterfall (Plotly)
